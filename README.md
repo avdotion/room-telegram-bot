@@ -22,7 +22,7 @@ user_scores:
 ```
 
 ## Goals
-- [V] Code Engine for Room Bot
+- [x] Code Engine for Room Bot
 - [ ] Code "interface" as Telegram Bot (as an example)
 - [ ] "Get Started" notes
 
