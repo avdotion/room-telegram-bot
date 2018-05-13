@@ -11,7 +11,7 @@ The Room Bot with Queues and Raiting
 > All data stores in yaml file
 
 ## Configuration file example
-```
+```yaml
 actions:
   []
 user_scores:
