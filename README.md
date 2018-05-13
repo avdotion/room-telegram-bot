@@ -7,7 +7,8 @@ The Room Bot with Queues and Raiting
 * Display persons activities in queue
 * Display nightmentor
 * Access to hot-managing with activities (every user can add, only admin can delete)
-All data stores in yaml file
+
+> All data stores in yaml file
 
 ## Configuration file example
 ```
@@ -19,3 +20,14 @@ user_scores:
   123456791: 0
   123456792: 0
 ```
+
+## Goals
+- [V] Code Engine for Room Bot
+- [ ] Code "interface" as Telegram Bot (as an example)
+- [ ] "Get Started" notes
+
+### The _engine.py_ features
+* Import/export data to `.yaml` config
+* User Model (name, id, balance, admin features and etc)
+* Action system (everybody can receive achievements, admin can approve them)
+* Board (agenda) 
